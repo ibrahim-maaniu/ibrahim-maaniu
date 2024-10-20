@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ibrahim-maaniu
+- 👀 I’m interested in creating a few applications that could help organizations with their internal workflow.
+- 🌱 I’m currently learning Python,C#,Computer Networking,CyberSecurity and a bit of rust
+- 📫 You can reach me through either mail, ibrahim.maaniu@proton.me
